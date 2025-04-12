@@ -3,10 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/test/Test.java</file>
             <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/Recette.java</file>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/Utilisateur.java</file>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/User.java</file>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/util/Test.java</file>
             <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/Categorie.java</file>
-            <file>file:/D:/Java.Recettes/GestionRecettes/web/index.html</file>
             <file>file:/D:/Java.Recettes/GestionRecettes/src/java/util/HibernateUtil.java</file>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/Admin.java</file>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/Ingredient.java</file>
+            <file>file:/D:/Java.Recettes/GestionRecettes/src/java/entities/UtilisationQuantite.java</file>
             <file>file:/D:/Java.Recettes/GestionRecettes/src/java/config/hibernate.cfg.xml</file>
         </group>
     </open-files>

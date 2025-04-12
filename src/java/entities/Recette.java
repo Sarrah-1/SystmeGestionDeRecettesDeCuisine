@@ -23,6 +23,11 @@ public class Recette {
     public Recette() {
     }
 
+    public Recette(String titre, String instructions) {
+        this.titre = titre;
+        this.instructions = instructions;
+    }
+    
     public int getId() {
         return id;
     }
