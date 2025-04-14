@@ -21,6 +21,10 @@ public class Ingredient {
     public Ingredient() {
     }
 
+    public Ingredient(String nom) {
+        this.nom = nom;
+    }
+
     public int getId() {
         return id;
     }

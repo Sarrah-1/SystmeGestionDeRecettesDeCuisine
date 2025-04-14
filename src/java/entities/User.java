@@ -20,6 +20,13 @@ public class User {
     public User() {
     }
 
+    public User(String nom, String email, String motDePasse) {
+    this.nom = nom;
+    this.email = email;
+    this.password = password;
+}
+
+
     public int getId() {
         return id;
     }

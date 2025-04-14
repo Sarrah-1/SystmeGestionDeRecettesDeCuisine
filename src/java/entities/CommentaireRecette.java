@@ -1,5 +1,6 @@
 package entities;
 
+import java.util.Date;
 import javax.persistence.*;
 
 @Entity
@@ -19,7 +20,6 @@ public class CommentaireRecette {
     private User user;
 
     private String contenu;
-
     public CommentaireRecette() {
     }
 
