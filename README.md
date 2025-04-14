@@ -49,6 +49,16 @@ La gestion manuelle des recettes de cuisine pose plusieurs difficultés :
 🔒 **Sécurité et gestion des utilisateurs**
 - Authentification et gestion des droits d'accès (utilisateurs/admins)
 
+## Diagramme de classe  
+
+<img width="560" alt="Capture d’écran 2025-04-10 133827" src="https://github.com/user-attachments/assets/a86aa13c-44df-4277-bfef-b4afac0f200f" />
+
+---
+
+## Modèle conceptuel de la base de données  
+📌
+
+---
 ---
 
 ## Technologies Utilisées 🛠  
@@ -58,17 +68,6 @@ La gestion manuelle des recettes de cuisine pose plusieurs difficultés :
 📈 **Chart.js** pour les graphiques statistiques  
 💥 **JDBC** pour l’accès aux données  
 🖥️ Interface réalisée avec **NetBeans**
-
----
-
-## Diagramme de classe  
-
-<img width="560" alt="Capture d’écran 2025-04-10 133827" src="https://github.com/user-attachments/assets/a86aa13c-44df-4277-bfef-b4afac0f200f" />
-
----
-
-## Modèle conceptuel de la base de données  
-📌
 
 ---
 
