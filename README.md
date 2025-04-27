@@ -55,11 +55,11 @@ La gestion manuelle des recettes de cuisine pose plusieurs difficultés :
 
 ---
 
-## Modèle conceptuel de la base de données  
-📌
+## Exécution des tests 🧪
 
----
----
+Insertion de données
+<img width="550" alt="Insertion" src="https://github.com/user-attachments/assets/3e55a1af-eddc-4a22-9877-b3aefb876861" />
+
 
 ## Technologies Utilisées 🛠  
 💻 **Java Web** (Servlets / JSP)  
